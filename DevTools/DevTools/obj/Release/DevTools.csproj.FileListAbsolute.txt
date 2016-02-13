@@ -1,0 +1,6 @@
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\DevTools\bin\DevTools.dll.config
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\DevTools\bin\DevTools.dll
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\DevTools\bin\DevTools.pdb
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\DevTools\obj\Release\DevTools.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\DevTools\obj\Release\DevTools.dll
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\DevTools\obj\Release\DevTools.pdb

@@ -1,0 +1,8 @@
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\bin\Debug\TestApp.exe
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\bin\Debug\Core.dll
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\bin\Debug\Core.pdb
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\obj\Debug\TestApp.exe
+C:\Users\Louis\Dropbox\Coding\Trunk\DevTools\TestApp\obj\Debug\TestApp.pdb

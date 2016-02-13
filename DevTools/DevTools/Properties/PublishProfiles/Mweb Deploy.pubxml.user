@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIG6eTDtm3kKXXFQYNKayTQAAAAACAAAAAAAQZgAAAAEAACAAAADN1PWf06r9U2ZpoRaBfUEtI2TyvWSYCP4pp2A0X+5UWAAAAAAOgAAAAAIAACAAAAAcxTxiiF5P9p6xWU3F9SCd35LmrcpvlZUmbNtRcP9RICAAAAB5huLeIUmHqgYV6NTghZkGHxOFrWXaz2ODDZeLvBZItkAAAACFTi1r78FIlIXLR1OobiWMG22Y1TP9vfAuRpZZ5YIVvA73nkYgF7SABUZsjVXH6meNGEAJCEmjgSuLNhflzyrz</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.devtools.co.za/public_html</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>10/05/2015 18:38:33</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>10/05/2015 18:38:33</publishTime>
+    </File>
+    <File Include="bin/Core.dll">
+      <publishTime>10/05/2015 18:30:42</publishTime>
+    </File>
+    <File Include="bin/Core.pdb">
+      <publishTime>10/05/2015 18:30:42</publishTime>
+    </File>
+    <File Include="bin/DevTools.dll">
+      <publishTime>10/05/2015 18:32:50</publishTime>
+    </File>
+    <File Include="bin/DevTools.pdb">
+      <publishTime>10/05/2015 18:32:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>09/16/2015 22:10:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>09/16/2015 22:10:10</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/08/2015 21:49:37</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/08/2015 21:49:37</publishTime>
+    </File>
+    <File Include="Content/dropzone.css">
+      <publishTime>09/08/2015 19:53:07</publishTime>
+    </File>
+    <File Include="Content/main.css">
+      <publishTime>10/05/2015 18:37:23</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>09/22/2015 16:24:16</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/01/2015 22:30:28</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/27/2015 19:33:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/27/2015 19:33:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/27/2015 19:33:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/27/2015 19:33:35</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/27/2015 19:33:35</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/27/2015 19:32:02</publishTime>
+    </File>
+    <File Include="google91f753b2d3872589.html">
+      <publishTime>09/16/2015 11:03:55</publishTime>
+    </File>
+    <File Include="image/compressor/default.aspx">
+      <publishTime>09/08/2015 21:48:35</publishTime>
+    </File>
+    <File Include="images/compressor/default.aspx">
+      <publishTime>09/16/2015 09:24:49</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/27/2015 19:33:35</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>10/05/2015 18:38:32</publishTime>
+    </File>
+    <File Include="robots.txt">
+      <publishTime>09/16/2015 11:00:11</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>08/27/2015 19:33:34</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>08/27/2015 19:33:34</publishTime>
+    </File>
+    <File Include="Scripts/dropzone.js">
+      <publishTime>09/08/2015 19:32:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>08/27/2015 19:33:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>08/27/2015 19:33:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>08/27/2015 19:33:30</publishTime>
+    </File>
+    <File Include="seo/sitemap/default.aspx">
+      <publishTime>10/05/2015 18:38:13</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>09/16/2015 22:10:32</publishTime>
+    </File>
+    <File Include="sitemap.xml">
+      <publishTime>09/22/2015 17:11:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/05/2015 18:38:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+Disallow: /images/compressor/default.aspx
+
+
+Sitemap: http://www.devtools.co.za/sitemap.xml
